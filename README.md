@@ -31,4 +31,5 @@ USB转串口 (ex.CH340) TX连接PA10，RX连接PA9，同时不要将MCU的Type-C
 
 本文采用设备：
 
-![image](https://github.com/blanktime/STM32_KMP/assets/52731000/c1e0ab48-e6f2-44a8-b316-0a7e2274b774)
+![image](https://github.com/blanktime/STM32_KMP/assets/52731000/a5c29d98-488d-47e3-939f-779a2b356194)
+
