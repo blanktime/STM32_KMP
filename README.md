@@ -33,4 +33,6 @@ USB转串口 (ex.CH340) TX连接PA10，RX连接PA9，同时不要将MCU的Type-C
 
 ![image](https://github.com/blanktime/STM32_KMP/assets/52731000/a5c29d98-488d-47e3-939f-779a2b356194)
 
-New version: https://github.com/blanktime/STM32_UCOSIII_SPOR(加入多任务以及消息队列机制）
+
+## New version
+https://github.com/blanktime/STM32_UCOSIII_SPOR(加入多任务以及消息队列机制）
